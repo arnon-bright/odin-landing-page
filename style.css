@@ -170,12 +170,13 @@ button {
     color: var(--clr-primary);
     text-align: center;
     margin-bottom: 20px;
-    padding-block: 50px;
+    padding-top: 50px;
   }
 
   .card-container {
     display: flex;
     justify-content: center;
+    padding: 50px;
 
     .card {
       display: flex;
